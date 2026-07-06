@@ -1,1 +1,37 @@
+# PPQQ Technologies Enterprise IT Lab Roadmap
 
+## Phase 1
+- VMware Workstation
+- Windows Server 2022
+- Active Directory
+- DNS
+- Windows 11 Client
+
+## Phase 2
+- Organizational Units
+- Users
+- Groups
+- Password Policies
+
+## Phase 3
+- Group Policy
+- File Sharing
+- NTFS Permissions
+
+## Phase 4
+- Print Server
+- Printer Deployment
+
+## Phase 5
+- Microsoft 365
+- Entra ID
+- Intune
+
+## Phase 6
+- Google Workspace
+
+## Phase 7
+- PowerShell
+
+## Phase 8
+- Help Desk Ticket Simulation
